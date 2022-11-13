@@ -1,0 +1,721 @@
+{
+  message: 'Error finding user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:35:07'
+}
+{
+  message: 'Error saving user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:35:07'
+}
+{
+  message: 'Error finding user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:39:49'
+}
+{
+  message: 'Error saving user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:39:49'
+}
+{
+  message: 'Error finding user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:41:22'
+}
+{
+  message: 'Error saving user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:41:22'
+}
+{
+  message: 'Error finding user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:51:04'
+}
+{
+  message: 'Error saving user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:51:04'
+}
+{
+  message: 'Error saving user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:55:13'
+}
+{
+  message: 'Error saving user',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 03:57:59'
+}
+{
+  message: 'Error signing up TypeError: Converting circular structure to JSON\n' +
+    "    --> starting at object with constructor 'DerivedLogger'\n" +
+    "    |     property '_readableState' -> object with constructor 'ReadableState'\n" +
+    "    |     property 'pipes' -> object with constructor 'Array'\n" +
+    "    |     index 0 -> object with constructor 'Console'\n" +
+    "    --- property 'parent' closes the circle",
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-06-2022 04:25:15'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-09-2022 02:19:57'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-09-2022 02:29:12'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:26:30'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:30:22'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:32:11'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:34:12'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:35:21'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:36:43'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 00:41:31'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 01:06:58'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 01:07:03'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 01:09:23'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 01:11:06'
+}
+{
+  path: '/home/javier/Documentos/Projects/ecommerce/server/public/views/emailOrder.ejs',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 01:14:21'
+}
+{
+  errors: {
+    sender: ValidatorError: Path `sender` is required.
+        at validate (/home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/schematype.js:1337:13)
+        at ObjectId.SchemaType.doValidate (/home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/schematype.js:1321:7)
+        at /home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/document.js:2830:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sender` is required.',
+        type: 'required',
+        path: 'sender',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sender',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    'message.text': ValidatorError: Path `message.text` is required.
+        at validate (/home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/schematype.js:1337:13)
+        at SchemaString.SchemaType.doValidate (/home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/schematype.js:1321:7)
+        at /home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/document.js:2830:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `message.text` is required.',
+        type: 'required',
+        path: 'message.text',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'message.text',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Messages validation failed',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:19:36'
+}
+{
+  errors: {
+    body: ValidatorError: Path `body` is required.
+        at validate (/home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/schematype.js:1337:13)
+        at SchemaString.SchemaType.doValidate (/home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/schematype.js:1321:7)
+        at /home/javier/Documentos/Projects/ecommerce/server/node_modules/mongoose/lib/document.js:2830:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `body` is required.',
+        type: 'required',
+        path: 'body',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'body',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Messages validation failed',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:23:15'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:26:53'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:26:53'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:28:13'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:28:13'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:29:49'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:30:35'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:31:00'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:32:18'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:40:04'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:40:29'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:42:23'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:42:33'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:43:20'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:44:29'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:47:58'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:50:24'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:53:09'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-10-2022 02:54:50'
+}
+{
+  message: 'mongoose error MongoServerError: bad auth : Authentication failed.',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-11-2022 01:32:53'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials f4-20020a056870898400b0012d130c2fdasm768842oaq.48 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-11-2022 02:12:39'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials k9-20020a056870958900b0010d5d5c3fc3sm2300364oao.8 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 02:32:26'
+}
+{
+  message: 'Error to edit cart ValidationError: products.0.count: Path `count` is required., products.0._id: Path `_id` is required.',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:40:00'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:40:00'
+}
+{
+  message: "Error to edit cart TypeError: Cannot read properties of undefined (reading 'toString')",
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:41:08'
+}
+{
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:41:08'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials m13-20020a4ad50d000000b0049bdee12662sm1548820oos.6 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:43:15'
+}
+{
+  message: 'Cannot find id 636ca48fe1df82c6e7456fe CastError: Cast to ObjectId failed for value "636ca48fe1df82c6e7456fe" (type string) at path "_id" for model "products"',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:49:53'
+}
+{
+  message: 'Cannot find id 636ca48fe1df82c6e7456fe CastError: Cast to ObjectId failed for value "636ca48fe1df82c6e7456fe" (type string) at path "_id" for model "products"',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 03:51:25'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 16:36:28'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:09:34'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials r15-20020a4aad0f000000b004908a9542f8sm2040027oon.31 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:12:29'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials q10-20020a056820028a00b0049dd7bccaa1sm1483808ood.12 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:14:27'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:15:17'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:16:37'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:19:15'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials o6-20020a9d6d06000000b00661946468c6sm2388301otp.31 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:24:08'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:24:11'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 17:38:44'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:05:17'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:05:20'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:05:36'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:05:50'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:06:05'
+}
+{
+  messageFormat: undefined,
+  stringValue: '"undefined"',
+  kind: 'ObjectId',
+  value: 'undefined',
+  path: 'user',
+  reason: BSONTypeError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+      at new BSONTypeError (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/error.js:41:28)
+      at new ObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/bson/lib/objectid.js:67:23)
+      at castObjectId (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/cast/objectid.js:25:12)
+      at ObjectId.cast (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schema/objectid.js:246:12)
+      at SchemaType.applySetters (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1192:12)
+      at SchemaType._castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1635:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1623:15)
+      at ObjectId.handleSingle (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1533:15)
+      at SchemaType.castForQuery (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1620:20)
+      at SchemaType.castForQueryWrapper (/Users/javierperezurrutia/Documents/Proyectos/eshop-project/server/node_modules/mongoose/lib/schematype.js:1589:22),
+  valueType: 'string',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:06:35'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials p6-20020a056870830600b0013b92b3ac64sm3140934oae.3 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:43:03'
+}
+{
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. Learn more at\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d10-20020a4ad34a000000b0049f3f5afcbasm1698014oos.13 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN',
+  level: 'error',
+  label: 'Label🏷️',
+  timestamp: 'Nov-12-2022 18:55:49'
+}
