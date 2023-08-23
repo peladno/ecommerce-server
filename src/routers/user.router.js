@@ -23,4 +23,8 @@ router.get("/logout", user.logOut);
 
 router.get("/login/success", userAuth, user.loginSucess);
 
+router.get("/", (request, resolve) => {
+  resolve.send("<h1>OK</h1>");
+});
+
 module.exports = router;
